@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mr. Michael Herbert-Gray]]></title>
         <description><![CDATA[Mr. Michael Herbert-Gray]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michael-herbert-gray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 22:57:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 04:08:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michael-herbert-gray/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post Number Two]]></title>
+            <description><![CDATA[<article><h1>Post Number Two</h1><p>Just so I can see what The Grid can do. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/28f53eb20ddcb0660f5dde38b59a462c4fa841d4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/michael-herbert-gray/post-number-two/index.html</link>
+            <guid isPermaLink="false">b1f85cb2-9083-463c-83d2-48ff9e5b7523</guid>
+            <pubDate>Mon, 29 Feb 2016 04:08:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/338db9f5-139c-47b2-a592-112ed8493cdb.jpg">]]></description>
-            <link>undefinedc1abc669-ded1-43cd-affb-6b558498504f/index.html</link>
+            <link>https://thegrid.ai/michael-herbert-gray/c1abc669-ded1-43cd-affb-6b558498504f/index.html</link>
             <guid isPermaLink="false">c1abc669-ded1-43cd-affb-6b558498504f</guid>
             <pubDate>Sun, 28 Feb 2016 22:55:33 GMT</pubDate>
         </item>
